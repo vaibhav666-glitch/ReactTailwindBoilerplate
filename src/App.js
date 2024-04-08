@@ -1,4 +1,4 @@
-import MeetingCreationForm from "./MeetingCreationForm.js";
+import MeetingCreationForm from "./component/MeetingCreationForm.js";
 //import CalendarView from "./Calendar.js";
 
 function App() {
